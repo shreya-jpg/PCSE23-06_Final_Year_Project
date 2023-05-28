@@ -1,5 +1,4 @@
-# PCSE23-06_Final_Year_Project
-<h1 align="center"> Major-Project-PCSE23-07 </h1>
+<h1 align="center"> Major-Project-PCSE23-06 </h1>
 
 
 
